@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67b51d36-45e6-4a2e-8687-4469e6e66c10": {
+      "ProjectGuid": "67b51d36-45e6-4a2e-8687-4469e6e66c10",
+      "DisplayName": "Datatypes_ValueType",
+      "ColorIndex": 0
+    },
+    "6a612d80-a199-4374-aa86-9f32b6e23edc": {
+      "ProjectGuid": "6a612d80-a199-4374-aa86-9f32b6e23edc",
+      "DisplayName": "Bank_account_opening",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

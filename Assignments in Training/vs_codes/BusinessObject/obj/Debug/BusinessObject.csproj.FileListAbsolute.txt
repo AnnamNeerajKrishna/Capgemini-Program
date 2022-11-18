@@ -1,0 +1,8 @@
+E:\vs_codes\BusinessObject\bin\Debug\BusinessObject.exe.config
+E:\vs_codes\BusinessObject\bin\Debug\BusinessObject.exe
+E:\vs_codes\BusinessObject\bin\Debug\BusinessObject.pdb
+E:\vs_codes\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+E:\vs_codes\BusinessObject\obj\Debug\BusinessObject.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+E:\vs_codes\BusinessObject\obj\Debug\BusinessObject.exe
+E:\vs_codes\BusinessObject\obj\Debug\BusinessObject.pdb

@@ -1,0 +1,8 @@
+E:\vs_codes\Tasks\bin\Debug\Tasks.exe.config
+E:\vs_codes\Tasks\bin\Debug\Tasks.exe
+E:\vs_codes\Tasks\bin\Debug\Tasks.pdb
+E:\vs_codes\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+E:\vs_codes\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+E:\vs_codes\Tasks\obj\Debug\Tasks.exe
+E:\vs_codes\Tasks\obj\Debug\Tasks.pdb

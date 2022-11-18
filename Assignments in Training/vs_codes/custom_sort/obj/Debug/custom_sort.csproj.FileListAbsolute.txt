@@ -1,0 +1,7 @@
+E:\vs_codes\custom_sort\bin\Debug\custom_sort.exe.config
+E:\vs_codes\custom_sort\bin\Debug\custom_sort.exe
+E:\vs_codes\custom_sort\bin\Debug\custom_sort.pdb
+E:\vs_codes\custom_sort\obj\Debug\custom_sort.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\custom_sort\obj\Debug\custom_sort.csproj.CoreCompileInputs.cache
+E:\vs_codes\custom_sort\obj\Debug\custom_sort.exe
+E:\vs_codes\custom_sort\obj\Debug\custom_sort.pdb

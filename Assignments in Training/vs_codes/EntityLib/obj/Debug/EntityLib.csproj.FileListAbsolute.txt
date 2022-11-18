@@ -1,0 +1,6 @@
+E:\vs_codes\EntityLib\bin\Debug\EntityLib.dll
+E:\vs_codes\EntityLib\bin\Debug\EntityLib.pdb
+E:\vs_codes\EntityLib\obj\Debug\EntityLib.csproj.AssemblyReference.cache
+E:\vs_codes\EntityLib\obj\Debug\EntityLib.csproj.CoreCompileInputs.cache
+E:\vs_codes\EntityLib\obj\Debug\EntityLib.dll
+E:\vs_codes\EntityLib\obj\Debug\EntityLib.pdb

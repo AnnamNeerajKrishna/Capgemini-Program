@@ -1,0 +1,12 @@
+E:\vs_codes\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.exe.config
+E:\vs_codes\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.exe
+E:\vs_codes\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+E:\vs_codes\BusinessAccessLayer\bin\Debug\DataAccessLayer.exe
+E:\vs_codes\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\vs_codes\BusinessAccessLayer\bin\Debug\DataAccessLayer.exe.config
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.exe
+E:\vs_codes\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

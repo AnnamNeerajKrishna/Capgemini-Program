@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b457fc2-85ff-4963-81fc-2f412a899667": {
+      "ProjectGuid": "1b457fc2-85ff-4963-81fc-2f412a899667",
+      "DisplayName": "LitwareLib",
+      "ColorIndex": 0
+    },
+    "41f8f499-018b-4a35-9b78-0770e5e8aea6": {
+      "ProjectGuid": "41f8f499-018b-4a35-9b78-0770e5e8aea6",
+      "DisplayName": "EmployeeManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

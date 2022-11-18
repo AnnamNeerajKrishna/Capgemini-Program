@@ -1,0 +1,11 @@
+E:\vs_codes\Demo__1\bin\Debug\Demo__1.exe.config
+E:\vs_codes\Demo__1\bin\Debug\Demo__1.exe
+E:\vs_codes\Demo__1\bin\Debug\Demo__1.pdb
+E:\vs_codes\Demo__1\bin\Debug\Demo_Library1.dll
+E:\vs_codes\Demo__1\bin\Debug\Demo_Library1.pdb
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.csproj.AssemblyReference.cache
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.csproj.CoreCompileInputs.cache
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.csproj.CopyComplete
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.exe
+E:\vs_codes\Demo__1\obj\Debug\Demo__1.pdb

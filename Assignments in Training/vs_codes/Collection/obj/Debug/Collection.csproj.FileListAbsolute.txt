@@ -1,0 +1,7 @@
+E:\vs_codes\Collection\bin\Debug\Collection.exe.config
+E:\vs_codes\Collection\bin\Debug\Collection.exe
+E:\vs_codes\Collection\bin\Debug\Collection.pdb
+E:\vs_codes\Collection\obj\Debug\Collection.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+E:\vs_codes\Collection\obj\Debug\Collection.exe
+E:\vs_codes\Collection\obj\Debug\Collection.pdb

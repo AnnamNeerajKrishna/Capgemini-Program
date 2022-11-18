@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfce75be-8d73-44f4-a2d1-febffa00480a": {
+      "ProjectGuid": "dfce75be-8d73-44f4-a2d1-febffa00480a",
+      "DisplayName": "AirWaysManagement",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "00571ca5-8e77-4bcc-98f9-42752585fb55": {
+      "ProjectGuid": "00571ca5-8e77-4bcc-98f9-42752585fb55",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    },
+    "6c1e0f97-5d39-4a72-bb58-455afaa3b99e": {
+      "ProjectGuid": "6c1e0f97-5d39-4a72-bb58-455afaa3b99e",
+      "DisplayName": "AirwaysDataAccessLayer",
+      "ColorIndex": 2
+    },
+    "3d0422d7-2fb8-467c-9d6a-8a694c3371c8": {
+      "ProjectGuid": "3d0422d7-2fb8-467c-9d6a-8a694c3371c8",
+      "DisplayName": "AirwaysBusinessAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

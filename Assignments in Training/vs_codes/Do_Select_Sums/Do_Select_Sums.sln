@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_Select_Sums", "Do_Select_Sums.csproj", "{34235E39-99A5-4E49-BF22-136C4E9ACA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob3", "..\Prob3\Prob3.csproj", "{CAB025A9-9530-4972-8175-F65E787C0F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34235E39-99A5-4E49-BF22-136C4E9ACA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34235E39-99A5-4E49-BF22-136C4E9ACA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34235E39-99A5-4E49-BF22-136C4E9ACA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34235E39-99A5-4E49-BF22-136C4E9ACA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB025A9-9530-4972-8175-F65E787C0F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB025A9-9530-4972-8175-F65E787C0F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB025A9-9530-4972-8175-F65E787C0F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB025A9-9530-4972-8175-F65E787C0F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE5C921-C575-4187-A1EF-6FFA0F4505CF}
+	EndGlobalSection
+EndGlobal

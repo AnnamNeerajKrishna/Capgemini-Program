@@ -1,0 +1,5 @@
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\BusinessLogicLayerLirbary\bin\Debug\BusinessLogicLayerLirbary.dll
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\BusinessLogicLayerLirbary\bin\Debug\BusinessLogicLayerLirbary.pdb
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\BusinessLogicLayerLirbary\obj\Debug\BusinessLogicLayerLirbary.csproj.CoreCompileInputs.cache
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\BusinessLogicLayerLirbary\obj\Debug\BusinessLogicLayerLirbary.dll
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\BusinessLogicLayerLirbary\obj\Debug\BusinessLogicLayerLirbary.pdb

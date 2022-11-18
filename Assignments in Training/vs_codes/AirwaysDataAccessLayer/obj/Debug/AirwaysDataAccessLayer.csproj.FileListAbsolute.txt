@@ -1,0 +1,9 @@
+E:\vs_codes\AirwaysDataAccessLayer\obj\Debug\AirwaysDataAccessLayer.csproj.AssemblyReference.cache
+E:\vs_codes\AirwaysDataAccessLayer\obj\Debug\AirwaysDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\vs_codes\AirwaysDataAccessLayer\bin\Debug\AirwaysDataAccessLayer.dll
+E:\vs_codes\AirwaysDataAccessLayer\bin\Debug\AirwaysDataAccessLayer.pdb
+E:\vs_codes\AirwaysDataAccessLayer\bin\Debug\Entity.dll
+E:\vs_codes\AirwaysDataAccessLayer\bin\Debug\Entity.pdb
+E:\vs_codes\AirwaysDataAccessLayer\obj\Debug\AirwaysDataAccessLayer.csproj.CopyComplete
+E:\vs_codes\AirwaysDataAccessLayer\obj\Debug\AirwaysDataAccessLayer.dll
+E:\vs_codes\AirwaysDataAccessLayer\obj\Debug\AirwaysDataAccessLayer.pdb

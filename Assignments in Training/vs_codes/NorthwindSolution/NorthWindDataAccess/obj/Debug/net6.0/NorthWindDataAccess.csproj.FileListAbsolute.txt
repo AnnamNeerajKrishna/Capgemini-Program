@@ -1,0 +1,17 @@
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthWindDataAccess.deps.json
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthWindDataAccess.dll
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\ref\NorthWindDataAccess.dll
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthWindDataAccess.pdb
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthwindEntities.dll
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthwindEntities.pdb
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.csproj.AssemblyReference.cache
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.AssemblyInfoInputs.cache
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.AssemblyInfo.cs
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.csproj.CoreCompileInputs.cache
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.csproj.CopyComplete
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.dll
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\ref\NorthWindDataAccess.dll
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.pdb
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\bin\Debug\net6.0\NorthWindDataAccess.runtimeconfig.json
+E:\vs_codes\NorthwindSolution\NorthWindDataAccess\obj\Debug\net6.0\NorthWindDataAccess.genruntimeconfig.cache

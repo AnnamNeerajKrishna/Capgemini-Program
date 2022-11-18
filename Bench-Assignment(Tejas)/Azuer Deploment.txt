@@ -1,0 +1,1 @@
+Deploying in pass : https://pharmaymanagementapp.azurewebsites.net

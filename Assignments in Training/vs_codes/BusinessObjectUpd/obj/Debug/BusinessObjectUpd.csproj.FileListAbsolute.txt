@@ -1,0 +1,6 @@
+E:\vs_codes\BusinessObjectUpd\bin\Debug\BusinessObjectUpd.dll
+E:\vs_codes\BusinessObjectUpd\bin\Debug\BusinessObjectUpd.pdb
+E:\vs_codes\BusinessObjectUpd\obj\Debug\BusinessObjectUpd.csproj.AssemblyReference.cache
+E:\vs_codes\BusinessObjectUpd\obj\Debug\BusinessObjectUpd.csproj.CoreCompileInputs.cache
+E:\vs_codes\BusinessObjectUpd\obj\Debug\BusinessObjectUpd.dll
+E:\vs_codes\BusinessObjectUpd\obj\Debug\BusinessObjectUpd.pdb

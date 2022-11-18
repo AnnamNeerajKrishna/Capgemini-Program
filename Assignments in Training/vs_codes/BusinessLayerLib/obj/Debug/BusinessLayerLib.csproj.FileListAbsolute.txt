@@ -1,0 +1,11 @@
+E:\vs_codes\BusinessLayerLib\bin\Debug\BusinessLayerLib.dll
+E:\vs_codes\BusinessLayerLib\bin\Debug\BusinessLayerLib.pdb
+E:\vs_codes\BusinessLayerLib\bin\Debug\DataAccess.dll
+E:\vs_codes\BusinessLayerLib\bin\Debug\EntityLib.dll
+E:\vs_codes\BusinessLayerLib\bin\Debug\DataAccess.pdb
+E:\vs_codes\BusinessLayerLib\bin\Debug\EntityLib.pdb
+E:\vs_codes\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+E:\vs_codes\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+E:\vs_codes\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CopyComplete
+E:\vs_codes\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+E:\vs_codes\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb

@@ -1,0 +1,7 @@
+E:\vs_codes\Thrwad_basics\bin\Debug\Thrwad_basics.exe.config
+E:\vs_codes\Thrwad_basics\bin\Debug\Thrwad_basics.exe
+E:\vs_codes\Thrwad_basics\bin\Debug\Thrwad_basics.pdb
+E:\vs_codes\Thrwad_basics\obj\Debug\Thrwad_basics.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Thrwad_basics\obj\Debug\Thrwad_basics.csproj.CoreCompileInputs.cache
+E:\vs_codes\Thrwad_basics\obj\Debug\Thrwad_basics.exe
+E:\vs_codes\Thrwad_basics\obj\Debug\Thrwad_basics.pdb

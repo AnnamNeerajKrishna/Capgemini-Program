@@ -1,0 +1,8 @@
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\bin\Debug\Arraylist_Collection.exe.config
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\bin\Debug\Arraylist_Collection.exe
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\bin\Debug\Arraylist_Collection.pdb
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\obj\Debug\Arraylist_Collection.csproj.AssemblyReference.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\obj\Debug\Arraylist_Collection.csproj.SuggestedBindingRedirects.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\obj\Debug\Arraylist_Collection.csproj.CoreCompileInputs.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\obj\Debug\Arraylist_Collection.exe
+E:\Itransform-Leftshift\Examples_In_Meeting\Day 4_Assignment\Arraylist_Collection\obj\Debug\Arraylist_Collection.pdb

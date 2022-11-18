@@ -1,0 +1,8 @@
+E:\vs_codes\Events\bin\Debug\Events.exe.config
+E:\vs_codes\Events\bin\Debug\Events.exe
+E:\vs_codes\Events\bin\Debug\Events.pdb
+E:\vs_codes\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+E:\vs_codes\Events\obj\Debug\Events.exe
+E:\vs_codes\Events\obj\Debug\Events.pdb
+E:\vs_codes\Events\obj\Debug\Events.csproj.AssemblyReference.cache

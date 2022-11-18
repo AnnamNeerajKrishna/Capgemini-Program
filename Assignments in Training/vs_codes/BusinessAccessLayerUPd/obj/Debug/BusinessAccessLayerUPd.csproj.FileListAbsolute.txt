@@ -1,0 +1,11 @@
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\BusinessAccessLayerUPd.dll
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\BusinessAccessLayerUPd.pdb
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\BusinessObjectUpd.dll
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\DataAccessLayerUpd.dll
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\BusinessObjectUpd.pdb
+E:\vs_codes\BusinessAccessLayerUPd\bin\Debug\DataAccessLayerUpd.pdb
+E:\vs_codes\BusinessAccessLayerUPd\obj\Debug\BusinessAccessLayerUPd.csproj.AssemblyReference.cache
+E:\vs_codes\BusinessAccessLayerUPd\obj\Debug\BusinessAccessLayerUPd.csproj.CoreCompileInputs.cache
+E:\vs_codes\BusinessAccessLayerUPd\obj\Debug\BusinessAccessLayerUPd.csproj.CopyComplete
+E:\vs_codes\BusinessAccessLayerUPd\obj\Debug\BusinessAccessLayerUPd.dll
+E:\vs_codes\BusinessAccessLayerUPd\obj\Debug\BusinessAccessLayerUPd.pdb

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bdfd4db-0fd8-4238-83ce-c96496e1a060": {
+      "ProjectGuid": "9bdfd4db-0fd8-4238-83ce-c96496e1a060",
+      "DisplayName": "HandsOnProject",
+      "ColorIndex": 0
+    },
+    "42d81d5f-46bd-4679-ab2e-d33dae54e135": {
+      "ProjectGuid": "42d81d5f-46bd-4679-ab2e-d33dae54e135",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "e7dc9a66-e761-45ec-ae16-fddb96c9acf4": {
+      "ProjectGuid": "e7dc9a66-e761-45ec-ae16-fddb96c9acf4",
+      "DisplayName": "BusinessAccessLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "34a70523-2a18-4fb7-abab-a1d54e47ff13": {
+      "ProjectGuid": "34a70523-2a18-4fb7-abab-a1d54e47ff13",
+      "DisplayName": "BusinessObject",
+      "ColorIndex": 3
+    },
+    "7ffdb673-a842-415c-aad6-b59303b4e1ea": {
+      "ProjectGuid": "7ffdb673-a842-415c-aad6-b59303b4e1ea",
+      "DisplayName": "BusinessLibrary1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

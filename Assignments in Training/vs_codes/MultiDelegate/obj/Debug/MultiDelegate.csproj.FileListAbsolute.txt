@@ -1,0 +1,7 @@
+E:\vs_codes\MultiDelegate\bin\Debug\MultiDelegate.exe.config
+E:\vs_codes\MultiDelegate\bin\Debug\MultiDelegate.exe
+E:\vs_codes\MultiDelegate\bin\Debug\MultiDelegate.pdb
+E:\vs_codes\MultiDelegate\obj\Debug\MultiDelegate.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\MultiDelegate\obj\Debug\MultiDelegate.csproj.CoreCompileInputs.cache
+E:\vs_codes\MultiDelegate\obj\Debug\MultiDelegate.exe
+E:\vs_codes\MultiDelegate\obj\Debug\MultiDelegate.pdb

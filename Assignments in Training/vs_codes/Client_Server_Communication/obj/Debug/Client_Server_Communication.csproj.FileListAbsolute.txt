@@ -1,0 +1,8 @@
+E:\vs_codes\Client_Server_Communication\bin\Debug\Client_Server_Communication.exe.config
+E:\vs_codes\Client_Server_Communication\bin\Debug\Client_Server_Communication.exe
+E:\vs_codes\Client_Server_Communication\bin\Debug\Client_Server_Communication.pdb
+E:\vs_codes\Client_Server_Communication\obj\Debug\Client_Server_Communication.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Client_Server_Communication\obj\Debug\Client_Server_Communication.csproj.CoreCompileInputs.cache
+E:\vs_codes\Client_Server_Communication\obj\Debug\Client_Server_Communication.exe
+E:\vs_codes\Client_Server_Communication\obj\Debug\Client_Server_Communication.pdb
+E:\vs_codes\Client_Server_Communication\obj\Debug\Client_Server_Communication.csproj.AssemblyReference.cache

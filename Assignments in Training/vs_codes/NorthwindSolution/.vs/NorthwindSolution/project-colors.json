@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2602d412-fe88-4a95-a35b-ff85a41d2058": {
+      "ProjectGuid": "2602d412-fe88-4a95-a35b-ff85a41d2058",
+      "DisplayName": "NorthwindEntities",
+      "ColorIndex": 0
+    },
+    "a2db9a3a-7165-4b5d-9d5b-03d1e6242d7c": {
+      "ProjectGuid": "a2db9a3a-7165-4b5d-9d5b-03d1e6242d7c",
+      "DisplayName": "NorthWindDataAccess",
+      "ColorIndex": 1
+    },
+    "99f15f61-329e-4ebb-b2c1-25f7e6a3c392": {
+      "ProjectGuid": "99f15f61-329e-4ebb-b2c1-25f7e6a3c392",
+      "DisplayName": "AutenticationService",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

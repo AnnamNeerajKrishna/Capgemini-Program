@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Server_Communication", "Client_Server_Communication.csproj", "{AE7771BE-A46B-4588-A80F-61C311CD5E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thrwad_basics", "..\Thrwad_basics\Thrwad_basics.csproj", "{B6BE9681-9FFD-4488-96DE-9D8B45C2FEF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7771BE-A46B-4588-A80F-61C311CD5E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7771BE-A46B-4588-A80F-61C311CD5E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7771BE-A46B-4588-A80F-61C311CD5E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7771BE-A46B-4588-A80F-61C311CD5E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BE9681-9FFD-4488-96DE-9D8B45C2FEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BE9681-9FFD-4488-96DE-9D8B45C2FEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BE9681-9FFD-4488-96DE-9D8B45C2FEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BE9681-9FFD-4488-96DE-9D8B45C2FEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01347F80-E289-4D21-BC3F-C93F42461574}
+	EndGlobalSection
+EndGlobal

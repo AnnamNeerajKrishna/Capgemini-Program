@@ -1,0 +1,7 @@
+E:\vs_codes\Ref_def\bin\Debug\Ref_def.exe.config
+E:\vs_codes\Ref_def\bin\Debug\Ref_def.exe
+E:\vs_codes\Ref_def\bin\Debug\Ref_def.pdb
+E:\vs_codes\Ref_def\obj\Debug\Ref_def.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Ref_def\obj\Debug\Ref_def.csproj.CoreCompileInputs.cache
+E:\vs_codes\Ref_def\obj\Debug\Ref_def.exe
+E:\vs_codes\Ref_def\obj\Debug\Ref_def.pdb

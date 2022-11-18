@@ -1,0 +1,9 @@
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\bin\Debug\DataAccessLayerLibrary.dll
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\bin\Debug\DataAccessLayerLibrary.pdb
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\bin\Debug\BusinessLogicLayerLirbary.dll
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\bin\Debug\BusinessLogicLayerLirbary.pdb
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csprojAssemblyReference.cache
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csproj.CopyComplete
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.dll
+C:\Users\deore\Desktop\Capgemini\ConsoleAppWith3tierConnectedDemo\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.pdb

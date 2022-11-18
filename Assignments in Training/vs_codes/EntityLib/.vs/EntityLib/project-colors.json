@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1277d218-a896-41d0-a2ae-9ed937b8cc31": {
+      "ProjectGuid": "1277d218-a896-41d0-a2ae-9ed937b8cc31",
+      "DisplayName": "EntityLib",
+      "ColorIndex": 0
+    },
+    "8c5937d7-9b9f-435f-b702-ffca7bc62612": {
+      "ProjectGuid": "8c5937d7-9b9f-435f-b702-ffca7bc62612",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "3d4349de-442b-495c-bb9b-384af259138f": {
+      "ProjectGuid": "3d4349de-442b-495c-bb9b-384af259138f",
+      "DisplayName": "BusinessLayerLib",
+      "ColorIndex": 2
+    },
+    "aebee967-38a6-4d2e-b015-7a5a8b26d873": {
+      "ProjectGuid": "aebee967-38a6-4d2e-b015-7a5a8b26d873",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

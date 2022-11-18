@@ -1,0 +1,12 @@
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\bin\Debug\net5.0\LitwareLib.deps.json
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\bin\Debug\net5.0\LitwareLib.dll
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\bin\Debug\net5.0\ref\LitwareLib.dll
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\bin\Debug\net5.0\LitwareLib.pdb
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.csproj.AssemblyReference.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.AssemblyInfoInputs.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.AssemblyInfo.cs
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.csproj.CoreCompileInputs.cache
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.dll
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\ref\LitwareLib.dll
+E:\Itransform-Leftshift\Examples_In_Meeting\LitwareLib\LitwareLib\obj\Debug\net5.0\LitwareLib.pdb

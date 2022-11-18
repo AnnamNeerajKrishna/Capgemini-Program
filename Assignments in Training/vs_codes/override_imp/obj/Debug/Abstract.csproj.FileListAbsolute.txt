@@ -1,0 +1,8 @@
+E:\vs_codes\override_imp\bin\Debug\override_imp.exe.config
+E:\vs_codes\override_imp\bin\Debug\override_imp.exe
+E:\vs_codes\override_imp\bin\Debug\override_imp.pdb
+E:\vs_codes\override_imp\obj\Debug\Abstract.csproj.AssemblyReference.cache
+E:\vs_codes\override_imp\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\override_imp\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+E:\vs_codes\override_imp\obj\Debug\override_imp.exe
+E:\vs_codes\override_imp\obj\Debug\override_imp.pdb

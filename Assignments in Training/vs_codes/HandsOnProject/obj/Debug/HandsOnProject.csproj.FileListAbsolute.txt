@@ -1,0 +1,12 @@
+E:\vs_codes\HandsOnProject\bin\Debug\HandsOnProject.exe.config
+E:\vs_codes\HandsOnProject\bin\Debug\HandsOnProject.exe
+E:\vs_codes\HandsOnProject\bin\Debug\HandsOnProject.pdb
+E:\vs_codes\HandsOnProject\bin\Debug\BusinessAccessLayer.exe
+E:\vs_codes\HandsOnProject\bin\Debug\BusinessAccessLayer.pdb
+E:\vs_codes\HandsOnProject\bin\Debug\BusinessAccessLayer.exe.config
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.csproj.AssemblyReference.cache
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.csproj.CoreCompileInputs.cache
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.csproj.CopyComplete
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.exe
+E:\vs_codes\HandsOnProject\obj\Debug\HandsOnProject.pdb

@@ -1,0 +1,7 @@
+E:\vs_codes\Operations\bin\Debug\Operations.exe.config
+E:\vs_codes\Operations\bin\Debug\Operations.exe
+E:\vs_codes\Operations\bin\Debug\Operations.pdb
+E:\vs_codes\Operations\obj\Debug\Operations.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+E:\vs_codes\Operations\obj\Debug\Operations.exe
+E:\vs_codes\Operations\obj\Debug\Operations.pdb

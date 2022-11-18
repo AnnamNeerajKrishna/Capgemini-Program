@@ -1,0 +1,15 @@
+E:\vs_codes\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\vs_codes\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\vs_codes\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\vs_codes\ConsoleUI\bin\Debug\BusinessLayerLib.dll
+E:\vs_codes\ConsoleUI\bin\Debug\EntityLib.dll
+E:\vs_codes\ConsoleUI\bin\Debug\BusinessLayerLib.pdb
+E:\vs_codes\ConsoleUI\bin\Debug\EntityLib.pdb
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\vs_codes\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\vs_codes\ConsoleUI\bin\Debug\DataAccess.dll
+E:\vs_codes\ConsoleUI\bin\Debug\DataAccess.pdb

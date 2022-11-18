@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae7771be-a46b-4588-a80f-61c311cd5e39": {
+      "ProjectGuid": "ae7771be-a46b-4588-a80f-61c311cd5e39",
+      "DisplayName": "Client_Server_Communication",
+      "ColorIndex": 0
+    },
+    "b6be9681-9ffd-4488-96de-9d8b45c2fef5": {
+      "ProjectGuid": "b6be9681-9ffd-4488-96de-9d8b45c2fef5",
+      "DisplayName": "Thrwad_basics",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

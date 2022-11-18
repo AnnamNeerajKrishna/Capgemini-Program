@@ -1,0 +1,15 @@
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.csproj.AssemblyReference.cache
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.csproj.CoreCompileInputs.cache
+E:\vs_codes\AirWaysManagement\bin\Debug\AirWaysManagement.exe.config
+E:\vs_codes\AirWaysManagement\bin\Debug\AirWaysManagement.exe
+E:\vs_codes\AirWaysManagement\bin\Debug\AirWaysManagement.pdb
+E:\vs_codes\AirWaysManagement\bin\Debug\AirwaysBusinessAccessLayer.dll
+E:\vs_codes\AirWaysManagement\bin\Debug\Entity.dll
+E:\vs_codes\AirWaysManagement\bin\Debug\AirwaysDataAccessLayer.dll
+E:\vs_codes\AirWaysManagement\bin\Debug\AirwaysBusinessAccessLayer.pdb
+E:\vs_codes\AirWaysManagement\bin\Debug\Entity.pdb
+E:\vs_codes\AirWaysManagement\bin\Debug\AirwaysDataAccessLayer.pdb
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.csproj.CopyComplete
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.exe
+E:\vs_codes\AirWaysManagement\obj\Debug\AirWaysManagement.pdb

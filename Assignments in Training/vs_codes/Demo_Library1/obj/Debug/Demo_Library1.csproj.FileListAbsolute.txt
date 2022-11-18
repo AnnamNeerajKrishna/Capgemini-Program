@@ -1,0 +1,5 @@
+E:\vs_codes\Demo_Library1\bin\Debug\Demo_Library1.dll
+E:\vs_codes\Demo_Library1\bin\Debug\Demo_Library1.pdb
+E:\vs_codes\Demo_Library1\obj\Debug\Demo_Library1.csproj.CoreCompileInputs.cache
+E:\vs_codes\Demo_Library1\obj\Debug\Demo_Library1.dll
+E:\vs_codes\Demo_Library1\obj\Debug\Demo_Library1.pdb

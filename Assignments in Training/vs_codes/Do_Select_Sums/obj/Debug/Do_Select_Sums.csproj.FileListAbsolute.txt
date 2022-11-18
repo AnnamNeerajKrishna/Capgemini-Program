@@ -1,0 +1,7 @@
+E:\vs_codes\Do_Select_Sums\bin\Debug\Do_Select_Sums.exe.config
+E:\vs_codes\Do_Select_Sums\bin\Debug\Do_Select_Sums.exe
+E:\vs_codes\Do_Select_Sums\bin\Debug\Do_Select_Sums.pdb
+E:\vs_codes\Do_Select_Sums\obj\Debug\Do_Select_Sums.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Do_Select_Sums\obj\Debug\Do_Select_Sums.csproj.CoreCompileInputs.cache
+E:\vs_codes\Do_Select_Sums\obj\Debug\Do_Select_Sums.exe
+E:\vs_codes\Do_Select_Sums\obj\Debug\Do_Select_Sums.pdb

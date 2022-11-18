@@ -1,0 +1,96 @@
+3 tier architecture
+
+1) Console app
+Accepting the data----
+2) Business Logic---Class Libraries-----Class---Validations
+3) DataAccess Logic---class Libraries------class----logic---I/U/D/F/S
+
+Steps:
+1) Create BusinessLogicLayerLibrary
+2) Create DataAccessLayerLibrary
+3) Skeleton for the methods in the DataAccessLayer
+4) Class in the BusinessLogicLayerLibrary called as CategoryBAL
+5) Build BusinessLogicLayerLibrary
+6) Add reference of BusinessLogicLayerLibrary in DataAccessLayerLibrary
+7) Build DataAccessLibrary
+8) Add Reference of DataAccessLibrary to the console app
+9) Add Reference of BusinessLogicLayerLibrary to the console app.
+10) Create Stored Procedures for Insert/Update/Delete Category.
+
+ALTER PROCEDURE [dbo].[sp_InsertCategory]
+	-- Add the parameters for the stored procedure here
+	@CatId int,
+	@CatName nvarchar(15),
+	@CatDesc ntext
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Insert into Categories(Categoryid,CategoryName,Description) values(@CatId,@CatName,@CatDesc);
+END
+
+------------------------------
+CREATE PROCEDURE sp_UpdateCategory
+	-- Add the parameters for the stored procedure here
+	@CatId int,
+	@CatName nvarchar(15),
+	@CatDesc ntext
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Update Categories set CategoryName=@CatName, Description=@CatDesc where CategoryID=@CatId
+END
+GO
+
+---------------------
+
+CREATE PROCEDURE sp_DeleteCategory
+	-- Add the parameters for the stored procedure here
+	@CatID int
+	
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Delete from Categories where CategoryID=@CatID
+END
+GO
+-------------------------
+CREATE FUNCTION fn_FindCategory
+(	
+	-- Add the parameters for the function here
+	@Catid int
+	)
+RETURNS TABLE 
+AS
+RETURN 
+(
+	-- Add the SELECT statement with parameter references here
+	SELECT  CategoryName,Description from Categories
+	where CategoryID=@Catid
+)
+GO
+----------------------------
+CREATE FUNCTION fn_ShowListCategories
+(	
+	-- Add the parameters for the function here
+	
+)
+RETURNS TABLE 
+AS
+RETURN 
+(
+	-- Add the SELECT statement with parameter references here
+	SELECT  * from categories
+)
+GO

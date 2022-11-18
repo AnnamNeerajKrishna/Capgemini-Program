@@ -1,0 +1,8 @@
+E:\vs_codes\SerialTest\bin\Debug\SerialTest.exe.config
+E:\vs_codes\SerialTest\bin\Debug\SerialTest.exe
+E:\vs_codes\SerialTest\bin\Debug\SerialTest.pdb
+E:\vs_codes\SerialTest\obj\Debug\SerialTest.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+E:\vs_codes\SerialTest\obj\Debug\SerialTest.exe
+E:\vs_codes\SerialTest\obj\Debug\SerialTest.pdb
+E:\vs_codes\SerialTest\obj\Debug\SerialTest.csproj.AssemblyReference.cache

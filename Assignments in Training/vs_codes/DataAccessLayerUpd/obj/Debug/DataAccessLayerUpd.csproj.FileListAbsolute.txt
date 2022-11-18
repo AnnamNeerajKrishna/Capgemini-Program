@@ -1,0 +1,9 @@
+E:\vs_codes\DataAccessLayerUpd\bin\Debug\DataAccessLayerUpd.dll
+E:\vs_codes\DataAccessLayerUpd\bin\Debug\DataAccessLayerUpd.pdb
+E:\vs_codes\DataAccessLayerUpd\bin\Debug\BusinessObjectUpd.dll
+E:\vs_codes\DataAccessLayerUpd\bin\Debug\BusinessObjectUpd.pdb
+E:\vs_codes\DataAccessLayerUpd\obj\Debug\DataAccessLayerUpd.csproj.AssemblyReference.cache
+E:\vs_codes\DataAccessLayerUpd\obj\Debug\DataAccessLayerUpd.csproj.CoreCompileInputs.cache
+E:\vs_codes\DataAccessLayerUpd\obj\Debug\DataAccessLayerUpd.csproj.CopyComplete
+E:\vs_codes\DataAccessLayerUpd\obj\Debug\DataAccessLayerUpd.dll
+E:\vs_codes\DataAccessLayerUpd\obj\Debug\DataAccessLayerUpd.pdb

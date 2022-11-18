@@ -1,0 +1,15 @@
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\HandsOnProjectUpd.exe.config
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\HandsOnProjectUpd.exe
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\HandsOnProjectUpd.pdb
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\BusinessAccessLayerUPd.dll
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\BusinessObjectUpd.dll
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\DataAccessLayerUpd.dll
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\BusinessAccessLayerUPd.pdb
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\BusinessObjectUpd.pdb
+E:\vs_codes\HandsOnProjectUpd\bin\Debug\DataAccessLayerUpd.pdb
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.csproj.AssemblyReference.cache
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.csproj.CoreCompileInputs.cache
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.csproj.CopyComplete
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.exe
+E:\vs_codes\HandsOnProjectUpd\obj\Debug\HandsOnProjectUpd.pdb

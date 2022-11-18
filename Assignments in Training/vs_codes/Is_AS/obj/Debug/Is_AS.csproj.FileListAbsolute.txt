@@ -1,0 +1,7 @@
+E:\vs_codes\Is_AS\bin\Debug\Is_AS.exe.config
+E:\vs_codes\Is_AS\bin\Debug\Is_AS.exe
+E:\vs_codes\Is_AS\bin\Debug\Is_AS.pdb
+E:\vs_codes\Is_AS\obj\Debug\Is_AS.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Is_AS\obj\Debug\Is_AS.csproj.CoreCompileInputs.cache
+E:\vs_codes\Is_AS\obj\Debug\Is_AS.exe
+E:\vs_codes\Is_AS\obj\Debug\Is_AS.pdb

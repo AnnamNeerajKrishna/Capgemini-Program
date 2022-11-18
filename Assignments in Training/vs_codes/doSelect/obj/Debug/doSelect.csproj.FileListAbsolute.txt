@@ -1,0 +1,7 @@
+E:\vs_codes\doSelect\bin\Debug\doSelect.exe.config
+E:\vs_codes\doSelect\bin\Debug\doSelect.exe
+E:\vs_codes\doSelect\bin\Debug\doSelect.pdb
+E:\vs_codes\doSelect\obj\Debug\doSelect.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\doSelect\obj\Debug\doSelect.csproj.CoreCompileInputs.cache
+E:\vs_codes\doSelect\obj\Debug\doSelect.exe
+E:\vs_codes\doSelect\obj\Debug\doSelect.pdb

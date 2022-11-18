@@ -1,0 +1,11 @@
+E:\vs_codes\AirwaysBusinessAccessLayer\obj\Debug\AirwaysBusinessAccessLayer.csproj.AssemblyReference.cache
+E:\vs_codes\AirwaysBusinessAccessLayer\obj\Debug\AirwaysBusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\AirwaysBusinessAccessLayer.dll
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\AirwaysBusinessAccessLayer.pdb
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\AirwaysDataAccessLayer.dll
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\Entity.dll
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\AirwaysDataAccessLayer.pdb
+E:\vs_codes\AirwaysBusinessAccessLayer\bin\Debug\Entity.pdb
+E:\vs_codes\AirwaysBusinessAccessLayer\obj\Debug\AirwaysBusinessAccessLayer.csproj.CopyComplete
+E:\vs_codes\AirwaysBusinessAccessLayer\obj\Debug\AirwaysBusinessAccessLayer.dll
+E:\vs_codes\AirwaysBusinessAccessLayer\obj\Debug\AirwaysBusinessAccessLayer.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7064cd2-3803-41ca-9863-a2bc3d9e2b67": {
+      "ProjectGuid": "b7064cd2-3803-41ca-9863-a2bc3d9e2b67",
+      "DisplayName": "String_builder",
+      "ColorIndex": 0
+    },
+    "a2de21ae-8d4e-4ce2-9470-1a5dc7818b7d": {
+      "ProjectGuid": "a2de21ae-8d4e-4ce2-9470-1a5dc7818b7d",
+      "DisplayName": "Operations",
+      "ColorIndex": 1
+    },
+    "4e5e5043-abd5-4c76-970d-4ec4327ef7cc": {
+      "ProjectGuid": "4e5e5043-abd5-4c76-970d-4ec4327ef7cc",
+      "DisplayName": "Ref_def",
+      "ColorIndex": 2
+    },
+    "a03f94bd-abd6-4039-9977-f699dc947691": {
+      "ProjectGuid": "a03f94bd-abd6-4039-9977-f699dc947691",
+      "DisplayName": "Is_AS",
+      "ColorIndex": 3
+    },
+    "4ca4a375-9e13-433e-bb5d-3d3125ed6ff6": {
+      "ProjectGuid": "4ca4a375-9e13-433e-bb5d-3d3125ed6ff6",
+      "DisplayName": "var_dynamic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

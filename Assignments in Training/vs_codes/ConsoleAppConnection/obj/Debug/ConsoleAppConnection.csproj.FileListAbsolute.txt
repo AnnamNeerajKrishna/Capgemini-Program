@@ -1,0 +1,8 @@
+E:\vs_codes\ConsoleAppConnection\bin\Debug\ConsoleAppConnection.exe.config
+E:\vs_codes\ConsoleAppConnection\bin\Debug\ConsoleAppConnection.exe
+E:\vs_codes\ConsoleAppConnection\bin\Debug\ConsoleAppConnection.pdb
+E:\vs_codes\ConsoleAppConnection\obj\Debug\ConsoleAppConnection.csproj.AssemblyReference.cache
+E:\vs_codes\ConsoleAppConnection\obj\Debug\ConsoleAppConnection.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\ConsoleAppConnection\obj\Debug\ConsoleAppConnection.csproj.CoreCompileInputs.cache
+E:\vs_codes\ConsoleAppConnection\obj\Debug\ConsoleAppConnection.exe
+E:\vs_codes\ConsoleAppConnection\obj\Debug\ConsoleAppConnection.pdb

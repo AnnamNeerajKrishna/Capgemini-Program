@@ -1,0 +1,8 @@
+E:\vs_codes\Demo__1\bin\Demo__2\bin\Release\Demo__2.exe.config
+E:\vs_codes\Demo__1\bin\Demo__2\bin\Release\Demo__2.exe
+E:\vs_codes\Demo__1\bin\Demo__2\bin\Release\Demo__2.pdb
+E:\vs_codes\Demo__1\bin\Demo__2\obj\Release\Demo__2.csproj.AssemblyReference.cache
+E:\vs_codes\Demo__1\bin\Demo__2\obj\Release\Demo__2.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Demo__1\bin\Demo__2\obj\Release\Demo__2.csproj.CoreCompileInputs.cache
+E:\vs_codes\Demo__1\bin\Demo__2\obj\Release\Demo__2.exe
+E:\vs_codes\Demo__1\bin\Demo__2\obj\Release\Demo__2.pdb

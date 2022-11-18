@@ -1,0 +1,8 @@
+E:\vs_codes\Datatypes_ValueType\bin\Debug\Datatypes_ValueType.exe.config
+E:\vs_codes\Datatypes_ValueType\bin\Debug\Datatypes_ValueType.exe
+E:\vs_codes\Datatypes_ValueType\bin\Debug\Datatypes_ValueType.pdb
+E:\vs_codes\Datatypes_ValueType\obj\Debug\Datatypes_ValueType.csproj.AssemblyReference.cache
+E:\vs_codes\Datatypes_ValueType\obj\Debug\Datatypes_ValueType.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Datatypes_ValueType\obj\Debug\Datatypes_ValueType.csproj.CoreCompileInputs.cache
+E:\vs_codes\Datatypes_ValueType\obj\Debug\Datatypes_ValueType.exe
+E:\vs_codes\Datatypes_ValueType\obj\Debug\Datatypes_ValueType.pdb

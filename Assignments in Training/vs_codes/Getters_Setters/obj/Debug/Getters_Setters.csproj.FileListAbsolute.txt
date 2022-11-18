@@ -1,0 +1,8 @@
+E:\vs_codes\Getters_Setters\bin\Debug\Getters_Setters.exe.config
+E:\vs_codes\Getters_Setters\bin\Debug\Getters_Setters.exe
+E:\vs_codes\Getters_Setters\bin\Debug\Getters_Setters.pdb
+E:\vs_codes\Getters_Setters\obj\Debug\Getters_Setters.csproj.AssemblyReference.cache
+E:\vs_codes\Getters_Setters\obj\Debug\Getters_Setters.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\Getters_Setters\obj\Debug\Getters_Setters.csproj.CoreCompileInputs.cache
+E:\vs_codes\Getters_Setters\obj\Debug\Getters_Setters.exe
+E:\vs_codes\Getters_Setters\obj\Debug\Getters_Setters.pdb

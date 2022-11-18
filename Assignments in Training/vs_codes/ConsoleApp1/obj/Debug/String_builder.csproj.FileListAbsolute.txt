@@ -1,0 +1,7 @@
+E:\vs_codes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\vs_codes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\vs_codes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\vs_codes\ConsoleApp1\obj\Debug\String_builder.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\ConsoleApp1\obj\Debug\String_builder.csproj.CoreCompileInputs.cache
+E:\vs_codes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\vs_codes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,14 @@
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\Demo_project1.exe
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\Demo_project1.deps.json
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\Demo_project1.runtimeconfig.json
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\Demo_project1.dll
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\ref\Demo_project1.dll
+E:\vs_codes\Demo_project1\bin\Debug\net6.0\Demo_project1.pdb
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.AssemblyInfoInputs.cache
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.AssemblyInfo.cs
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.csproj.CoreCompileInputs.cache
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.dll
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\ref\Demo_project1.dll
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.pdb
+E:\vs_codes\Demo_project1\obj\Debug\net6.0\Demo_project1.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97e9b9ea-6158-4db0-8e74-d3120fea0979": {
+      "ProjectGuid": "97e9b9ea-6158-4db0-8e74-d3120fea0979",
+      "DisplayName": "HandsOnProjectUpd",
+      "ColorIndex": 0
+    },
+    "dacf1977-3426-4e89-8aa3-c8f450b4edba": {
+      "ProjectGuid": "dacf1977-3426-4e89-8aa3-c8f450b4edba",
+      "DisplayName": "BusinessObjectUpd",
+      "ColorIndex": 1
+    },
+    "1f8c5f3a-950f-45f5-af82-4a86cc9f98c1": {
+      "ProjectGuid": "1f8c5f3a-950f-45f5-af82-4a86cc9f98c1",
+      "DisplayName": "BusinessAccessLayerUPd",
+      "ColorIndex": 2
+    },
+    "daa19044-fa42-4e37-b06f-c3f1d959f447": {
+      "ProjectGuid": "daa19044-fa42-4e37-b06f-c3f1d959f447",
+      "DisplayName": "DataAccessLayerUpd",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

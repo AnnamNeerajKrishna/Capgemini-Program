@@ -1,0 +1,8 @@
+E:\vs_codes\var_dynamic\bin\Debug\var_dynamic.exe.config
+E:\vs_codes\var_dynamic\bin\Debug\var_dynamic.exe
+E:\vs_codes\var_dynamic\bin\Debug\var_dynamic.pdb
+E:\vs_codes\var_dynamic\obj\Debug\var_dynamic.csproj.SuggestedBindingRedirects.cache
+E:\vs_codes\var_dynamic\obj\Debug\var_dynamic.csproj.CoreCompileInputs.cache
+E:\vs_codes\var_dynamic\obj\Debug\var_dynamic.exe
+E:\vs_codes\var_dynamic\obj\Debug\var_dynamic.pdb
+E:\vs_codes\var_dynamic\obj\Debug\var_dynamic.csproj.AssemblyReference.cache

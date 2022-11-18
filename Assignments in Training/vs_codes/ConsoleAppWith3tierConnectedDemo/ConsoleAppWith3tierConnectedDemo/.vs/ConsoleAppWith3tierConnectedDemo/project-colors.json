@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "166e8d29-c8e3-4159-ab82-a93484722cc5": {
+      "ProjectGuid": "166e8d29-c8e3-4159-ab82-a93484722cc5",
+      "DisplayName": "DataAccessLayerLibrary",
+      "ColorIndex": 0
+    },
+    "3969c3b3-6adb-4112-88c7-5fee31b63713": {
+      "ProjectGuid": "3969c3b3-6adb-4112-88c7-5fee31b63713",
+      "DisplayName": "ConsoleAppWith3tierConnectedDemo",
+      "ColorIndex": 1
+    },
+    "8d012314-ef62-49c2-af56-5db74219b698": {
+      "ProjectGuid": "8d012314-ef62-49c2-af56-5db74219b698",
+      "DisplayName": "BusinessLogicLayerLirbary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
