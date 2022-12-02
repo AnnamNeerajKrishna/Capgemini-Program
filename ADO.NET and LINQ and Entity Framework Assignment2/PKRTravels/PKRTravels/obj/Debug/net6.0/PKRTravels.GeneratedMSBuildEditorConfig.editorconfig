@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PKRTravels
+build_property.RootNamespace = PKRTravels
+build_property.ProjectDir = E:\All Documents\ADO.NET and LINQ and Entity Framework Assignment2\PKRTravels\PKRTravels\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\All Documents\ADO.NET and LINQ and Entity Framework Assignment2\PKRTravels\PKRTravels
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9eujutlkxe
