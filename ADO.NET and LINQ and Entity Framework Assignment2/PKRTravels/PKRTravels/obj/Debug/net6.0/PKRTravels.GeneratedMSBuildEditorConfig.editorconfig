@@ -32,24 +32,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/TravelsDBs/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc0RCc1xJbmRleC5jc2h0bWw=
+[E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/Travels/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xjcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/All Documents/ADO.NET and LINQ and Entity Framework Assignment2/PKRTravels/PKRTravels/Views/_ViewImports.cshtml]
