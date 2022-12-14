@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 
 
 //Dependency Injection For the Database and the project
-builder.Services.AddDbContext<ADDContextDB>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
+builder.Services.AddDbContext<ContextDB>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
 
 
 var app = builder.Build();
